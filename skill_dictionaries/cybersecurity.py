@@ -1,0 +1,20 @@
+SKILL_LIST = [
+    "network security",
+    "cybersecurity",
+    "penetration testing",
+    "ethical hacking",
+    "linux",
+    "siem",
+    "soc",
+    "incident response",
+    "firewall",
+    "ids",
+    "ips",
+    "malware analysis",
+    "vulnerability assessment",
+    "cryptography",
+    "risk management",
+    "iso 27001",
+    "nist",
+    "cloud security"
+]

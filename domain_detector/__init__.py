@@ -1,0 +1,1 @@
+from domain_detector.domain_detector import detect_domain

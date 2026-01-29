@@ -1,0 +1,1 @@
+from learning_path_recommender.path_builder import build_learning_path

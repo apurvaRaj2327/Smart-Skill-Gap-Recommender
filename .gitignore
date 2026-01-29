@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data files (VERY IMPORTANT)
+data/
+*.csv
+
+# Resume uploads
+*.pdf
+
+# OS
+.DS_Store
+.env
