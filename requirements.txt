@@ -11,4 +11,10 @@ pdfminer.six==20231228
 spacy==3.7.2
 blis==0.7.11
 
+# Streamlit-compatible markdown stack
+rich==13.7.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pygments==2.19.2
+
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
